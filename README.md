@@ -40,7 +40,7 @@ java Main
 ```
 5. Demonstração de uso:<br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Oij_Rr13XYY?si=8TDTQZycM0DmjqZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Assista ao vídeo](https://img.youtube.com/vi/Oij_Rr13XYY/0.jpg)](https://youtu.be/Oij_Rr13XYY)
 
 # Recursos Adicionais
 * Grafos: [Documentação do projeto](https://anadiasc.github.io/grafos/src/JavaDoc/package-summary.html)
