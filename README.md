@@ -1,4 +1,4 @@
-# Grafo em Java ☕
+# Grafos em Java ☕
 Este projeto implementa uma aplicação de grafo em Java que permite a criação, manipulação e visualização de grafos não direcionados e ponderados. A aplicação fornece uma interface de linha de comando que permite ao usuário interagir com o grafo, realizando operações como inserção e remoção de vértices e arestas, verificação de conexidade, caminhamento em profundidade e amplitude, conversão para matriz de adjacência, cálculo de caminho mínimo e construção de árvore geradora mínima.
 
 # Funcionalidades
@@ -39,10 +39,10 @@ javac Main.java
 java Main
 ```
 5. Demonstração de uso:<br>
-[![alt text](https://img.youtube.com/vi/video-id/0.jpg)](https://www.youtube.com/watch?v=video-id)
+<iframe src="https://drive.google.com/file/d/1LWR-bCtXMVsf5XHfrJLmmulvtF2Ofs65/view?usp=sharing" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 # Recursos Adicionais
-* Documentação JGraphT: [JGraphT Documentation](https://exemplo.com/)
-* Documentação JGraphX: [JGraphX Documentation](https://exemplo.com/)
-* Tutorial Swing: [Java Swing Tutorial](https://exemplo.com/)
-
+* Grafos: [Documentação do projeto](src/JavaDoc/index.html)
+* Documentação JGraphT: [JGraphT Documentation](https://jgrapht.org/)
+* Documentação JGraphX: [JGraphX Documentation](https://github.com/jgraph/jgraphx)
+* Tutorial Swing: [Java Swing Tutorial](https://docs.oracle.com/javase/tutorial/uiswing/)

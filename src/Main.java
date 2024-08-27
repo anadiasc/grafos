@@ -29,7 +29,7 @@ public class Main {
 
         do {
             System.out.println("======================================");
-            System.out.println("|                 GRAFO              |");
+            System.out.println("|                GRAFO               |");
             System.out.println("======================================");
             System.out.println("| 1. Inserir Vértice                 |");
             System.out.println("| 2. Inserir Aresta                  |");
