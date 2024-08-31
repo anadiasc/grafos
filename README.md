@@ -27,18 +27,14 @@ Este projeto implementa uma aplicação de grafo em Java que permite a criação
 * Bibliotecas JGraphT e JGraphX disponíveis no classpath.
 2. Clonar o Repositório:
 ```
-git clone https://github.com/seuusuario/projeto-grafo.git
-cd projeto-grafo
+git clone https://github.com/anadiasc/grafos.git
+cd grafos
 ```
 3. Compilar o Código:
 ```
-javac Main.java
+Utilize a IDE que prefirir. Como sujestão, utilize o Eclipse ou Intellij Idea.
 ```
-4. Executar a Aplicação:
-```
-java Main
-```
-5. Demonstração de uso:<br>
+4. Demonstração de uso:<br>
 
 [![Assista ao vídeo](https://img.youtube.com/vi/Oij_Rr13XYY/0.jpg)](https://youtu.be/Oij_Rr13XYY)
 
